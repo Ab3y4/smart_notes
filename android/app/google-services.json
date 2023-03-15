@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435769419521",
+    "project_id": "smart-notes-bf32d",
+    "storage_bucket": "smart-notes-bf32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435769419521:android:540455d3c6e404c03d9d00",
+        "android_client_info": {
+          "package_name": "com.ab3y4.smart_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435769419521-7td1mp16s05ivi6pnn3ju3smbqq97hfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6SvgY_Hdea2F_ONSKo9dHGUmfVT3TXtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435769419521-7td1mp16s05ivi6pnn3ju3smbqq97hfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
